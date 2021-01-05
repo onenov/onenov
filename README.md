@@ -1,4 +1,4 @@
-### ▷ 昭昭若日月之明,离离如星辰之行.
+### ▷ 知足且上进 温柔而坚定.
 
   <img src="https://github-readme-stats.vercel.app/api?username=onenov&show_icons=true" />
 <!--
