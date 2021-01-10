@@ -1,7 +1,6 @@
 ### 🌱 知足且上进 温柔而坚定.
 
   <img src="https://github-readme-stats.vercel.app/api?username=onenov&show_icons=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=onenov&layout=compact&langs_count=8&theme=algolia"/>
 <!--
 **onenov/onenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
